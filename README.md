@@ -27,7 +27,7 @@
 
 **Project objective:**
 
-1. Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/rizal-muhammed/Excel-Reports/blob/main/P%20%26%20L%20By%20Fiscal%20Years.pdf)_ & _[customer net performance report](https://github.com/rizal-muhammed/Excel-Reports/blob/main/P%20%26%20L%20By%20Fiscal%20Months.pdf)_.
+1. Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/rizal-muhammed/Excel-Reports/blob/main/P%20%26%20L%20By%20Fiscal%20Years.pdf)_ & _[Fiscal Month](https://github.com/rizal-muhammed/Excel-Reports/blob/main/P%20%26%20L%20By%20Fiscal%20Months.pdf)_.
 2. Create Profit and Loss (P&L) reports by _[Markets](https://github.com/rizal-muhammed/Excel-Reports/blob/main/P%20%26%20L%20for%20Markets.pdf)_.
 
   
