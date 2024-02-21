@@ -41,4 +41,15 @@
 **Role of reports:**
   1. **Financial Planning and Forecasting:** Supports financial planning and forecasting activities by providing historical data and trends that can be used to develop budgets, forecast future performance, and set financial goals.
 
-    
+
+Throughout the program, I've gained proficiency in a range of technical skills, including:
+- VLOOKUP, INDEX-MATCH, XLOOKUP and other powerful functions
+- Business statistics concepts including but not limited to Mean, Median, Variance, Correlation, etc
+- Data cleaning and transformation using Power Query
+- Pivot tables and data visualization
+
+Moreover, I've learned the following things, which will be crucial for success in the data field:
+- **The necessity of Data Cleaning.** If you expect clean data, you’re living in a dream world. You have to deal with messy data all the time. Power Query is your friend who will be helpful in faster data cleaning
+- **Customer empathetic design.** Whether you're creating an Excel report or a BI dashboard, prioritizing customer-centricity is crucial. Always incorporate user empathetic design principles to ensure enhanced user experiences.
+- **The importance of effective communication.** Communication skills to convey insights effectively is the most important skill.
+
